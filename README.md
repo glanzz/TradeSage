@@ -69,38 +69,30 @@ Non-trainable params: 0 (0.00 Byte)
 ### Sample Conversation
 <pre>
 You:  Current Gold price $2,400 an ounce, would you recommend adding gold to my current portfolio at this price?
-
 Bot: this would effectively meant a high exchange rate policy .
 
 You:  With silver trading at about $30 per ounce, how does it compare to gold as an inflation hedge?
-
 Bot: this would involve not only putting our own house in order but also bringing a new international financial order into existence which is appropriate to the altered circumstances .
 
 
 You:  The GBPUSD trading and 1.3194. That's within six pips of the high for the day at 1.3200. The high price for the year is also being approached. That level came in at 1.32067 reached on April 3.  Move above that level and a swing area between 1.3221 to 1.3245 would be targeted.
-
 Bot: if so , we may yet see the bull market of a lifetime .
 
 You:  Bank stocks have P/E ratio around 12-15. Are they undervalued under current interest rate environment ? Current intrest rate 7.128%.
-
 Bot: with reduced exposure , i can recover and regroup more easily . i accept the opec agreement as a major event.
 
 You:  Bitcoin has been fluctuating between $65,000-$70,000 lately - is this a good entry point for someone new to crypto?
-
 Bot: at present , the odds are that the market will pass the test , but it would be best not to be exposed while the issus is decided .
 
 You:  The VIX volatility index is around 20 - what does that tell you about market sentiment also the small caps funds have outperformed large cap funds lately.
-
 Bot: as a consequence , we expect a period of continuing turmoil in financial markets , although the focus of attention may shift from the stock market to the currency market and the bond market and , eventually , to the market for precious metals . the ideal of an international currency and an international central bank has few supporters .
 
 
 
 You:  Is it a sign of recession ?
-
 Bot: it is difficult to see how such a point could be reached as long as the federal government continues to borrow at the pres ent rate . a negative resolution would involve increasing financial instability , protectionism , a worldwide recessioa , and a flight from financial to liquid assets .
 
 You:  exit
-
 Bot: Exiting chatbot. Goodbye!
 
 </pre>
