@@ -1,6 +1,14 @@
 # TradeSage
 TradeSage is a GenAI-powered financial advisory assistant that provides intelligent, context-aware insights for your next trade. It combines live market sentiment, semantic memory, and deep domain understanding from The Alchemy of Finance to simulate a smart trading partner.
 
+### Architecture
+
+<img src="/architecture.png">
+
+### UI
+<img src="/ui.png">
+
+
 ### Components
 #### Data pre-processing layer
 - Preprocessing layer using the PDF to text with `docling` & QA generation using `valhalla/t5-base-e2e-qg` for directed task
@@ -61,9 +69,6 @@ Non-trainable params: 0 (0.00 Byte)
 
 - Interactive UI with Streamlit: Offers a chat-like experience for real-time interaction.
 
-### Architecture
-
-<img src="/architecture.png">
 
 
 ### Sample Conversation
@@ -105,13 +110,13 @@ Bot: Exiting chatbot. Goodbye!
 
 #### Clone the repo
 ```bash
-git clone https://github.com/your-username/tradesage.git
-cd tradesage
+git clone https://github.com/glanzz/TradeSage.git
+cd TradeSage
 ```
 
 #### Install dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.lock
 ```
 
 #### Ensure Milvus is running
@@ -119,7 +124,7 @@ pip install -r requirements.txt
 
 #### Run the app
 ```bash
-streamlit run app.py
+streamlit run app/main.py
 ```
 
 
