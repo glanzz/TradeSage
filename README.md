@@ -67,7 +67,7 @@ Non-trainable params: 0 (0.00 Byte)
 
 
 ### Sample Conversation
-
+<pre>
 You:  Current Gold price $2,400 an ounce, would you recommend adding gold to my current portfolio at this price?
 
 Bot: this would effectively meant a high exchange rate policy .
@@ -103,7 +103,7 @@ You:  exit
 
 Bot: Exiting chatbot. Goodbye!
 
-
+</pre>
 
 ### Screenshots
 <img src="/responses.png">
