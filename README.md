@@ -6,7 +6,7 @@ TradeSage is a GenAI-powered financial advisory assistant that provides intellig
 <img src="/architecture.png">
 
 ### UI
-<img src="/ui.png">
+<img width="40%" src="/ui.png">
 
 
 ### Components
